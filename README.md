@@ -1,2 +1,22 @@
 # leetcode-
 My LeetCode solutions and DSA practice in Java
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AnkitKumar146/leetcode-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AnkitKumar146/leetcode-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AnkitKumar146/leetcode-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Prefix Sum
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AnkitKumar146/leetcode-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+<!---LeetCode Topics End-->
