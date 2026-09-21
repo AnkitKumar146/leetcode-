@@ -8,11 +8,13 @@ My LeetCode solutions and DSA practice in Java
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/AnkitKumar146/leetcode-/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AnkitKumar146/leetcode-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3524-find-x-value-of-array-i](https://github.com/AnkitKumar146/leetcode-/tree/master/3524-find-x-value-of-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnkitKumar146/leetcode-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AnkitKumar146/leetcode-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3524-find-x-value-of-array-i](https://github.com/AnkitKumar146/leetcode-/tree/master/3524-find-x-value-of-array-i) |
 ## Combinatorics
 |  |
 | ------- |
@@ -25,6 +27,7 @@ My LeetCode solutions and DSA practice in Java
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnkitKumar146/leetcode-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [3524-find-x-value-of-array-i](https://github.com/AnkitKumar146/leetcode-/tree/master/3524-find-x-value-of-array-i) |
 ## Hash Table
 |  |
 | ------- |
