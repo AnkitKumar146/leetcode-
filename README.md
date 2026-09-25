@@ -33,6 +33,7 @@ My LeetCode solutions and DSA practice in Java
 ## Hash Table
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/AnkitKumar146/leetcode-/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnkitKumar146/leetcode-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AnkitKumar146/leetcode-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Binary Search
@@ -46,6 +47,7 @@ My LeetCode solutions and DSA practice in Java
 ## String
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/AnkitKumar146/leetcode-/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AnkitKumar146/leetcode-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/AnkitKumar146/leetcode-/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
@@ -55,6 +57,7 @@ My LeetCode solutions and DSA practice in Java
 ## Sorting
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/AnkitKumar146/leetcode-/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AnkitKumar146/leetcode-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Geometry
 |  |
@@ -68,4 +71,16 @@ My LeetCode solutions and DSA practice in Java
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/AnkitKumar146/leetcode-/tree/master/3525-find-x-value-of-array-ii) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/AnkitKumar146/leetcode-/tree/master/1096-brace-expansion-ii) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/AnkitKumar146/leetcode-/tree/master/1096-brace-expansion-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/AnkitKumar146/leetcode-/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
