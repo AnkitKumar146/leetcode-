@@ -36,6 +36,7 @@ My LeetCode solutions and DSA practice in Java
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/AnkitKumar146/leetcode-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AnkitKumar146/leetcode-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AnkitKumar146/leetcode-/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AnkitKumar146/leetcode-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3524-find-x-value-of-array-i](https://github.com/AnkitKumar146/leetcode-/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/AnkitKumar146/leetcode-/tree/master/3525-find-x-value-of-array-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AnkitKumar146/leetcode-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -46,6 +47,7 @@ My LeetCode solutions and DSA practice in Java
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnkitKumar146/leetcode-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AnkitKumar146/leetcode-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AnkitKumar146/leetcode-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AnkitKumar146/leetcode-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AnkitKumar146/leetcode-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search
 |  |
@@ -83,6 +85,7 @@ My LeetCode solutions and DSA practice in Java
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AnkitKumar146/leetcode-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/AnkitKumar146/leetcode-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AnkitKumar146/leetcode-/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AnkitKumar146/leetcode-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Sorting
 |  |
 | ------- |
@@ -150,6 +153,7 @@ My LeetCode solutions and DSA practice in Java
 ## Bit Manipulation
 |  |
 | ------- |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AnkitKumar146/leetcode-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AnkitKumar146/leetcode-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Heap (Priority Queue)
 |  |
