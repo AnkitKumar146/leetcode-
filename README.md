@@ -40,6 +40,7 @@ My LeetCode solutions and DSA practice in Java
 | [3524-find-x-value-of-array-i](https://github.com/AnkitKumar146/leetcode-/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/AnkitKumar146/leetcode-/tree/master/3525-find-x-value-of-array-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AnkitKumar146/leetcode-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/AnkitKumar146/leetcode-/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
@@ -86,12 +87,14 @@ My LeetCode solutions and DSA practice in Java
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/AnkitKumar146/leetcode-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AnkitKumar146/leetcode-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AnkitKumar146/leetcode-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/AnkitKumar146/leetcode-/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/AnkitKumar146/leetcode-/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AnkitKumar146/leetcode-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AnkitKumar146/leetcode-/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/AnkitKumar146/leetcode-/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Geometry
 |  |
 | ------- |
