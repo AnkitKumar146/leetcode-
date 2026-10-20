@@ -185,4 +185,12 @@ My LeetCode solutions and DSA practice in Java
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AnkitKumar146/leetcode-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/AnkitKumar146/leetcode-/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/AnkitKumar146/leetcode-/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/AnkitKumar146/leetcode-/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
