@@ -23,5 +23,6 @@ class Solution {
             nums[i++]=2;
             two--;
     }
+   
 }
 }
