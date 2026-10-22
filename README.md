@@ -191,6 +191,7 @@ My LeetCode solutions and DSA practice in Java
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AnkitKumar146/leetcode-/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/AnkitKumar146/leetcode-/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Two Pointers
 |  |
 | ------- |
