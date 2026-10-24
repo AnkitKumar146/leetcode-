@@ -33,6 +33,7 @@ My LeetCode solutions and DSA practice in Java
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AnkitKumar146/leetcode-/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/AnkitKumar146/leetcode-/tree/master/0283-move-zeroes) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnkitKumar146/leetcode-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AnkitKumar146/leetcode-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AnkitKumar146/leetcode-/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -199,6 +200,7 @@ My LeetCode solutions and DSA practice in Java
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AnkitKumar146/leetcode-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/AnkitKumar146/leetcode-/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/AnkitKumar146/leetcode-/tree/master/0283-move-zeroes) |
 ## Quicksort
 |  |
 | ------- |
