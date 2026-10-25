@@ -36,6 +36,7 @@ My LeetCode solutions and DSA practice in Java
 | [0283-move-zeroes](https://github.com/AnkitKumar146/leetcode-/tree/master/0283-move-zeroes) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnkitKumar146/leetcode-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AnkitKumar146/leetcode-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/AnkitKumar146/leetcode-/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AnkitKumar146/leetcode-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/AnkitKumar146/leetcode-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AnkitKumar146/leetcode-/tree/master/2333-minimum-sum-of-squared-difference) |
