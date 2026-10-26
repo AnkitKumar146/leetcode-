@@ -33,6 +33,7 @@ My LeetCode solutions and DSA practice in Java
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AnkitKumar146/leetcode-/tree/master/0075-sort-colors) |
+| [0179-largest-number](https://github.com/AnkitKumar146/leetcode-/tree/master/0179-largest-number) |
 | [0283-move-zeroes](https://github.com/AnkitKumar146/leetcode-/tree/master/0283-move-zeroes) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnkitKumar146/leetcode-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AnkitKumar146/leetcode-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -78,6 +79,7 @@ My LeetCode solutions and DSA practice in Java
 | [0020-valid-parentheses](https://github.com/AnkitKumar146/leetcode-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/AnkitKumar146/leetcode-/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/AnkitKumar146/leetcode-/tree/master/0032-longest-valid-parentheses) |
+| [0179-largest-number](https://github.com/AnkitKumar146/leetcode-/tree/master/0179-largest-number) |
 | [0301-remove-invalid-parentheses](https://github.com/AnkitKumar146/leetcode-/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/AnkitKumar146/leetcode-/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/AnkitKumar146/leetcode-/tree/master/0856-score-of-parentheses) |
@@ -94,6 +96,7 @@ My LeetCode solutions and DSA practice in Java
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/AnkitKumar146/leetcode-/tree/master/0179-largest-number) |
 | [0678-valid-parenthesis-string](https://github.com/AnkitKumar146/leetcode-/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AnkitKumar146/leetcode-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AnkitKumar146/leetcode-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -106,6 +109,7 @@ My LeetCode solutions and DSA practice in Java
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AnkitKumar146/leetcode-/tree/master/0075-sort-colors) |
+| [0179-largest-number](https://github.com/AnkitKumar146/leetcode-/tree/master/0179-largest-number) |
 | [1096-brace-expansion-ii](https://github.com/AnkitKumar146/leetcode-/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AnkitKumar146/leetcode-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AnkitKumar146/leetcode-/tree/master/2089-find-target-indices-after-sorting-array) |
