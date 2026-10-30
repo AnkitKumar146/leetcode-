@@ -6,6 +6,7 @@ My LeetCode solutions and DSA practice in Java
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/AnkitKumar146/leetcode-/tree/master/0268-missing-number) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/AnkitKumar146/leetcode-/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AnkitKumar146/leetcode-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3524-find-x-value-of-array-i](https://github.com/AnkitKumar146/leetcode-/tree/master/3524-find-x-value-of-array-i) |
@@ -35,6 +36,7 @@ My LeetCode solutions and DSA practice in Java
 | ------- |
 | [0075-sort-colors](https://github.com/AnkitKumar146/leetcode-/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/AnkitKumar146/leetcode-/tree/master/0179-largest-number) |
+| [0268-missing-number](https://github.com/AnkitKumar146/leetcode-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AnkitKumar146/leetcode-/tree/master/0283-move-zeroes) |
 | [0832-flipping-an-image](https://github.com/AnkitKumar146/leetcode-/tree/master/0832-flipping-an-image) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnkitKumar146/leetcode-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -57,6 +59,7 @@ My LeetCode solutions and DSA practice in Java
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/AnkitKumar146/leetcode-/tree/master/0268-missing-number) |
 | [1096-brace-expansion-ii](https://github.com/AnkitKumar146/leetcode-/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnkitKumar146/leetcode-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AnkitKumar146/leetcode-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -69,6 +72,7 @@ My LeetCode solutions and DSA practice in Java
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/AnkitKumar146/leetcode-/tree/master/0268-missing-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnkitKumar146/leetcode-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AnkitKumar146/leetcode-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AnkitKumar146/leetcode-/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -113,6 +117,7 @@ My LeetCode solutions and DSA practice in Java
 | ------- |
 | [0075-sort-colors](https://github.com/AnkitKumar146/leetcode-/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/AnkitKumar146/leetcode-/tree/master/0179-largest-number) |
+| [0268-missing-number](https://github.com/AnkitKumar146/leetcode-/tree/master/0268-missing-number) |
 | [1096-brace-expansion-ii](https://github.com/AnkitKumar146/leetcode-/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AnkitKumar146/leetcode-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AnkitKumar146/leetcode-/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -185,6 +190,7 @@ My LeetCode solutions and DSA practice in Java
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/AnkitKumar146/leetcode-/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/AnkitKumar146/leetcode-/tree/master/0832-flipping-an-image) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AnkitKumar146/leetcode-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AnkitKumar146/leetcode-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
