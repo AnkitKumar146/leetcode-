@@ -109,6 +109,7 @@ My LeetCode solutions and DSA practice in Java
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/AnkitKumar146/leetcode-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AnkitKumar146/leetcode-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AnkitKumar146/leetcode-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/AnkitKumar146/leetcode-/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3498-reverse-degree-of-a-string](https://github.com/AnkitKumar146/leetcode-/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
@@ -119,6 +120,7 @@ My LeetCode solutions and DSA practice in Java
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AnkitKumar146/leetcode-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/AnkitKumar146/leetcode-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AnkitKumar146/leetcode-/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/AnkitKumar146/leetcode-/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AnkitKumar146/leetcode-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/AnkitKumar146/leetcode-/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AnkitKumar146/leetcode-/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -238,6 +240,7 @@ My LeetCode solutions and DSA practice in Java
 | [0832-flipping-an-image](https://github.com/AnkitKumar146/leetcode-/tree/master/0832-flipping-an-image) |
 | [0922-sort-array-by-parity-ii](https://github.com/AnkitKumar146/leetcode-/tree/master/0922-sort-array-by-parity-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AnkitKumar146/leetcode-/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/AnkitKumar146/leetcode-/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Quicksort
 |  |
 | ------- |
