@@ -9,6 +9,7 @@ My LeetCode solutions and DSA practice in Java
 | [0268-missing-number](https://github.com/AnkitKumar146/leetcode-/tree/master/0268-missing-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AnkitKumar146/leetcode-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/AnkitKumar146/leetcode-/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1486-xor-operation-in-an-array](https://github.com/AnkitKumar146/leetcode-/tree/master/1486-xor-operation-in-an-array) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AnkitKumar146/leetcode-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3524-find-x-value-of-array-i](https://github.com/AnkitKumar146/leetcode-/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/AnkitKumar146/leetcode-/tree/master/3525-find-x-value-of-array-ii) |
@@ -207,6 +208,7 @@ My LeetCode solutions and DSA practice in Java
 | [0137-single-number-ii](https://github.com/AnkitKumar146/leetcode-/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/AnkitKumar146/leetcode-/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/AnkitKumar146/leetcode-/tree/master/0832-flipping-an-image) |
+| [1486-xor-operation-in-an-array](https://github.com/AnkitKumar146/leetcode-/tree/master/1486-xor-operation-in-an-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AnkitKumar146/leetcode-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AnkitKumar146/leetcode-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/AnkitKumar146/leetcode-/tree/master/3644-maximum-k-to-sort-a-permutation) |
