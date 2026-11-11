@@ -56,6 +56,7 @@ My LeetCode solutions and DSA practice in Java
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AnkitKumar146/leetcode-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AnkitKumar146/leetcode-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/AnkitKumar146/leetcode-/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3151-special-array-i](https://github.com/AnkitKumar146/leetcode-/tree/master/3151-special-array-i) |
 | [3524-find-x-value-of-array-i](https://github.com/AnkitKumar146/leetcode-/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/AnkitKumar146/leetcode-/tree/master/3525-find-x-value-of-array-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/AnkitKumar146/leetcode-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
