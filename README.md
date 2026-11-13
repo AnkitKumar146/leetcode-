@@ -43,6 +43,7 @@ My LeetCode solutions and DSA practice in Java
 | [0268-missing-number](https://github.com/AnkitKumar146/leetcode-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AnkitKumar146/leetcode-/tree/master/0283-move-zeroes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AnkitKumar146/leetcode-/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0540-single-element-in-a-sorted-array](https://github.com/AnkitKumar146/leetcode-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0832-flipping-an-image](https://github.com/AnkitKumar146/leetcode-/tree/master/0832-flipping-an-image) |
 | [0922-sort-array-by-parity-ii](https://github.com/AnkitKumar146/leetcode-/tree/master/0922-sort-array-by-parity-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AnkitKumar146/leetcode-/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -83,6 +84,7 @@ My LeetCode solutions and DSA practice in Java
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/AnkitKumar146/leetcode-/tree/master/0268-missing-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/AnkitKumar146/leetcode-/tree/master/0540-single-element-in-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AnkitKumar146/leetcode-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnkitKumar146/leetcode-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AnkitKumar146/leetcode-/tree/master/2089-find-target-indices-after-sorting-array) |
