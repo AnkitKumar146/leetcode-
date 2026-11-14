@@ -6,6 +6,7 @@ My LeetCode solutions and DSA practice in Java
 ## Math
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/AnkitKumar146/leetcode-/tree/master/0168-excel-sheet-column-title) |
 | [0268-missing-number](https://github.com/AnkitKumar146/leetcode-/tree/master/0268-missing-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AnkitKumar146/leetcode-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/AnkitKumar146/leetcode-/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -99,6 +100,7 @@ My LeetCode solutions and DSA practice in Java
 | [0020-valid-parentheses](https://github.com/AnkitKumar146/leetcode-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/AnkitKumar146/leetcode-/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/AnkitKumar146/leetcode-/tree/master/0032-longest-valid-parentheses) |
+| [0168-excel-sheet-column-title](https://github.com/AnkitKumar146/leetcode-/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/AnkitKumar146/leetcode-/tree/master/0179-largest-number) |
 | [0301-remove-invalid-parentheses](https://github.com/AnkitKumar146/leetcode-/tree/master/0301-remove-invalid-parentheses) |
 | [0541-reverse-string-ii](https://github.com/AnkitKumar146/leetcode-/tree/master/0541-reverse-string-ii) |
