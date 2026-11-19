@@ -44,6 +44,7 @@ My LeetCode solutions and DSA practice in Java
 | [0137-single-number-ii](https://github.com/AnkitKumar146/leetcode-/tree/master/0137-single-number-ii) |
 | [0179-largest-number](https://github.com/AnkitKumar146/leetcode-/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/AnkitKumar146/leetcode-/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/AnkitKumar146/leetcode-/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AnkitKumar146/leetcode-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AnkitKumar146/leetcode-/tree/master/0283-move-zeroes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AnkitKumar146/leetcode-/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -76,6 +77,7 @@ My LeetCode solutions and DSA practice in Java
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/AnkitKumar146/leetcode-/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AnkitKumar146/leetcode-/tree/master/0268-missing-number) |
 | [1096-brace-expansion-ii](https://github.com/AnkitKumar146/leetcode-/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnkitKumar146/leetcode-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -141,6 +143,7 @@ My LeetCode solutions and DSA practice in Java
 | ------- |
 | [0075-sort-colors](https://github.com/AnkitKumar146/leetcode-/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/AnkitKumar146/leetcode-/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/AnkitKumar146/leetcode-/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AnkitKumar146/leetcode-/tree/master/0268-missing-number) |
 | [0922-sort-array-by-parity-ii](https://github.com/AnkitKumar146/leetcode-/tree/master/0922-sort-array-by-parity-ii) |
 | [1096-brace-expansion-ii](https://github.com/AnkitKumar146/leetcode-/tree/master/1096-brace-expansion-ii) |
