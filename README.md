@@ -45,6 +45,7 @@ My LeetCode solutions and DSA practice in Java
 | [0179-largest-number](https://github.com/AnkitKumar146/leetcode-/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/AnkitKumar146/leetcode-/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/AnkitKumar146/leetcode-/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/AnkitKumar146/leetcode-/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/AnkitKumar146/leetcode-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AnkitKumar146/leetcode-/tree/master/0283-move-zeroes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AnkitKumar146/leetcode-/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -78,6 +79,7 @@ My LeetCode solutions and DSA practice in Java
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/AnkitKumar146/leetcode-/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/AnkitKumar146/leetcode-/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/AnkitKumar146/leetcode-/tree/master/0268-missing-number) |
 | [1096-brace-expansion-ii](https://github.com/AnkitKumar146/leetcode-/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnkitKumar146/leetcode-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -100,6 +102,7 @@ My LeetCode solutions and DSA practice in Java
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/AnkitKumar146/leetcode-/tree/master/0219-contains-duplicate-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnkitKumar146/leetcode-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## String
 |  |
