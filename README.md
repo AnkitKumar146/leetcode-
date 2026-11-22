@@ -126,6 +126,7 @@ My LeetCode solutions and DSA practice in Java
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/AnkitKumar146/leetcode-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AnkitKumar146/leetcode-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AnkitKumar146/leetcode-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/AnkitKumar146/leetcode-/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/AnkitKumar146/leetcode-/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3498-reverse-degree-of-a-string](https://github.com/AnkitKumar146/leetcode-/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
