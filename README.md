@@ -8,6 +8,7 @@ My LeetCode solutions and DSA practice in Java
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/AnkitKumar146/leetcode-/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/AnkitKumar146/leetcode-/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/AnkitKumar146/leetcode-/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/AnkitKumar146/leetcode-/tree/master/0268-missing-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AnkitKumar146/leetcode-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/AnkitKumar146/leetcode-/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -165,6 +166,7 @@ My LeetCode solutions and DSA practice in Java
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/AnkitKumar146/leetcode-/tree/master/0258-add-digits) |
 | [0832-flipping-an-image](https://github.com/AnkitKumar146/leetcode-/tree/master/0832-flipping-an-image) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/AnkitKumar146/leetcode-/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [3498-reverse-degree-of-a-string](https://github.com/AnkitKumar146/leetcode-/tree/master/3498-reverse-degree-of-a-string) |
@@ -273,4 +275,8 @@ My LeetCode solutions and DSA practice in Java
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AnkitKumar146/leetcode-/tree/master/0075-sort-colors) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/AnkitKumar146/leetcode-/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
