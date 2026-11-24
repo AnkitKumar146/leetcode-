@@ -15,6 +15,7 @@ My LeetCode solutions and DSA practice in Java
 | [1401-circle-and-rectangle-overlapping](https://github.com/AnkitKumar146/leetcode-/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1486-xor-operation-in-an-array](https://github.com/AnkitKumar146/leetcode-/tree/master/1486-xor-operation-in-an-array) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AnkitKumar146/leetcode-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AnkitKumar146/leetcode-/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3524-find-x-value-of-array-i](https://github.com/AnkitKumar146/leetcode-/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/AnkitKumar146/leetcode-/tree/master/3525-find-x-value-of-array-ii) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/AnkitKumar146/leetcode-/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -62,6 +63,7 @@ My LeetCode solutions and DSA practice in Java
 | [2089-find-target-indices-after-sorting-array](https://github.com/AnkitKumar146/leetcode-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/AnkitKumar146/leetcode-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AnkitKumar146/leetcode-/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AnkitKumar146/leetcode-/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AnkitKumar146/leetcode-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AnkitKumar146/leetcode-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AnkitKumar146/leetcode-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
