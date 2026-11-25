@@ -97,6 +97,7 @@ My LeetCode solutions and DSA practice in Java
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/AnkitKumar146/leetcode-/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/AnkitKumar146/leetcode-/tree/master/0278-first-bad-version) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AnkitKumar146/leetcode-/tree/master/0540-single-element-in-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AnkitKumar146/leetcode-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnkitKumar146/leetcode-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -281,4 +282,8 @@ My LeetCode solutions and DSA practice in Java
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/AnkitKumar146/leetcode-/tree/master/0258-add-digits) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/AnkitKumar146/leetcode-/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
