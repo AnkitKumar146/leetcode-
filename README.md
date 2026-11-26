@@ -16,6 +16,7 @@ My LeetCode solutions and DSA practice in Java
 | [1486-xor-operation-in-an-array](https://github.com/AnkitKumar146/leetcode-/tree/master/1486-xor-operation-in-an-array) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AnkitKumar146/leetcode-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AnkitKumar146/leetcode-/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3360-stone-removal-game](https://github.com/AnkitKumar146/leetcode-/tree/master/3360-stone-removal-game) |
 | [3524-find-x-value-of-array-i](https://github.com/AnkitKumar146/leetcode-/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/AnkitKumar146/leetcode-/tree/master/3525-find-x-value-of-array-ii) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/AnkitKumar146/leetcode-/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -172,6 +173,7 @@ My LeetCode solutions and DSA practice in Java
 | [0258-add-digits](https://github.com/AnkitKumar146/leetcode-/tree/master/0258-add-digits) |
 | [0832-flipping-an-image](https://github.com/AnkitKumar146/leetcode-/tree/master/0832-flipping-an-image) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/AnkitKumar146/leetcode-/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [3360-stone-removal-game](https://github.com/AnkitKumar146/leetcode-/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/AnkitKumar146/leetcode-/tree/master/3498-reverse-degree-of-a-string) |
 ## Segment Tree
 |  |
