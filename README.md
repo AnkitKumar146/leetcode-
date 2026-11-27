@@ -51,6 +51,7 @@ My LeetCode solutions and DSA practice in Java
 | [0219-contains-duplicate-ii](https://github.com/AnkitKumar146/leetcode-/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/AnkitKumar146/leetcode-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AnkitKumar146/leetcode-/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/AnkitKumar146/leetcode-/tree/master/0414-third-maximum-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AnkitKumar146/leetcode-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AnkitKumar146/leetcode-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0832-flipping-an-image](https://github.com/AnkitKumar146/leetcode-/tree/master/0832-flipping-an-image) |
@@ -154,6 +155,7 @@ My LeetCode solutions and DSA practice in Java
 | [0179-largest-number](https://github.com/AnkitKumar146/leetcode-/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/AnkitKumar146/leetcode-/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AnkitKumar146/leetcode-/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/AnkitKumar146/leetcode-/tree/master/0414-third-maximum-number) |
 | [0922-sort-array-by-parity-ii](https://github.com/AnkitKumar146/leetcode-/tree/master/0922-sort-array-by-parity-ii) |
 | [1096-brace-expansion-ii](https://github.com/AnkitKumar146/leetcode-/tree/master/1096-brace-expansion-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AnkitKumar146/leetcode-/tree/master/1385-find-the-distance-value-between-two-arrays) |
