@@ -27,6 +27,7 @@ My LeetCode solutions and DSA practice in Java
 | [0022-generate-parentheses](https://github.com/AnkitKumar146/leetcode-/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/AnkitKumar146/leetcode-/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/AnkitKumar146/leetcode-/tree/master/0678-valid-parenthesis-string) |
+| [0746-min-cost-climbing-stairs](https://github.com/AnkitKumar146/leetcode-/tree/master/0746-min-cost-climbing-stairs) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AnkitKumar146/leetcode-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AnkitKumar146/leetcode-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/AnkitKumar146/leetcode-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -54,6 +55,7 @@ My LeetCode solutions and DSA practice in Java
 | [0414-third-maximum-number](https://github.com/AnkitKumar146/leetcode-/tree/master/0414-third-maximum-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AnkitKumar146/leetcode-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AnkitKumar146/leetcode-/tree/master/0540-single-element-in-a-sorted-array) |
+| [0746-min-cost-climbing-stairs](https://github.com/AnkitKumar146/leetcode-/tree/master/0746-min-cost-climbing-stairs) |
 | [0832-flipping-an-image](https://github.com/AnkitKumar146/leetcode-/tree/master/0832-flipping-an-image) |
 | [0922-sort-array-by-parity-ii](https://github.com/AnkitKumar146/leetcode-/tree/master/0922-sort-array-by-parity-ii) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/AnkitKumar146/leetcode-/tree/master/1252-cells-with-odd-values-in-a-matrix) |
